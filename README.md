@@ -24,7 +24,6 @@ Backend: Node.js, Express
 
 Database: MongoDB (for storing paste content and unique links)
 
-Deployment: Vercel for frontend hosting, Heroku for backend hosting
 
 How It Works
 
