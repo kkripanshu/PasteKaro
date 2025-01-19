@@ -1,23 +1,34 @@
 Pastekaro
+
 Pastekaro is a simple, user-friendly web application that allows users to paste text or code and generate a unique link to access it. The content is view-only, with no authentication required, making it quick and easy to share snippets or notes with others.
 
 Features
+
 Create Paste: Easily paste your text or code and generate a unique URL.
 Shareable Link: Get a unique link to share the content with others.
 No Authentication: Paste without needing to log in or create an account.
 View-Only: The pasted content is only viewable and copyable—no editing allowed.
 Simple Interface: Clean and minimalistic design for easy usage.
+
+
 Tech Stack
+
+
 Frontend: React, Tailwind CSS, Ant Design
 Backend: Node.js, Express
 Database: MongoDB (for storing paste content and unique links)
 Deployment: Vercel for frontend hosting, Heroku for backend hosting
+
+
 Installation
 Prerequisites
 Node.js installed on your machine.
 MongoDB for the database (or use a cloud solution like MongoDB Atlas).
 Git for version control.
+
+
 Setup
+
 Clone the repository:
 
 bash
